@@ -1,8 +1,8 @@
 # Buying Behavior using Hierarchical clustering
 
-## Problem Statement: We have wholesale dataset each record has data on various customers annual spending amount Goal of this project is to desscribe the variation in diffrent types of customers a wholesale customer intract with
+##### Problem Statement: We have wholesale dataset each record has data on various customers annual spending amount Goal of this project is to desscribe the variation in diffrent types of customers a wholesale customer intract with
 
-## Data Set Information:
+#### Data Set Information:
 
 1) FRESH: annual spending (m.u.) on fresh products (Continuous);
 2) MILK: annual spending (m.u.) on milk products (Continuous);
